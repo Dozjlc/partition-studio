@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg">#000000</color>
+    <color name="surface">#0D0D0D</color>
+    <color name="surface_alt">#191919</color>
+    <color name="stroke">#262626</color>
+    <color name="stroke_soft">#1C1C1C</color>
+    <color name="text">#F5F5F2</color>
+    <color name="text_dim">#A6A9A3</color>
+    <color name="text_faint">#70746E</color>
+    <color name="primary">#F5F5F2</color>
+    <color name="on_primary">#0A0A0A</color>
+    <color name="primary_soft">#1A1A1A</color>
+    <color name="danger">#FF8A80</color>
+    <color name="danger_soft">#2A1210</color>
+    <color name="warning">#E8C36A</color>
+    <color name="warning_soft">#241C0B</color>
+    <color name="success">#7BD8A4</color>
+</resources>
