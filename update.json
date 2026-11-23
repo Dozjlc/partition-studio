@@ -1,7 +1,7 @@
 {
-  "versionCode": 26,
-  "versionName": "1.25",
-  "url": "https://cdn.jsdelivr.net/gh/Dozjlc/partition-studio@main/Dozjlc-tool-v1.25.apk",
-  "sha256": "9cac858fdc8416002cfcdb050956547f9507c41a87f9ea211e7c02f9f86ba98c",
-  "notes": "新增云更新：自动检查、手动检查、下载 SHA-256 校验、跳转系统安装器。"
+  "versionCode": 27,
+  "versionName": "1.26",
+  "url": "https://cdn.jsdelivr.net/gh/Dozjlc/partition-studio@main/Dozjlc-tool-v1.26.apk",
+  "sha256": "023a1a8b6918d8687627ec7ecd2e2aaa76273ab4c180484c52e9de141bb739c0",
+  "notes": "备份过程中可取消；取消后会终止读取并自动删除未完成的 .img / .part / 临时 ZIP。"
 }
